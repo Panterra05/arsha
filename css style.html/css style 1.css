@@ -1,0 +1,131 @@
+.body {
+    background-color:grey;
+    margin:50px;
+}
+
+.world {
+color:white;
+text-align: center;
+width: 50%;
+margin: 0 auto;
+padding: 10px;
+font-size: 40px;
+}
+
+.rasm {  
+     text-align: center;
+    padding: 10px;
+    
+}
+
+
+
+ .text-1 {
+     color:peru;
+       text-align: justify;
+       padding: 10px;   
+       font-weight: 600;
+       font-family: 'Montserrat', cursive;
+       font-weight: bolder;
+       font-size: 25px;
+
+}
+ 
+.text-2 {
+    color:dodgerblue;
+    text-align: justify;
+    padding: 10px;
+    font-size: 25px;
+    font-style:italic;
+    font-weight:bold;
+}
+
+.text-3 {
+    color: aqua;
+    text-align:justify;
+    padding: 15px;
+    font-size: 25px;
+    font-style:oblique;
+    
+}
+
+.ajoyib {
+     text-align: right;
+     padding: 15px;
+}
+
+
+.beer {
+    color: whitesmoke;
+    text-align: left;
+    font-size: 40px;
+    font-style: italic;
+    text-decoration:underline;
+}
+
+.text-4 {
+    color: green;
+    text-align: left;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.world-2 {
+    color:white;
+    font-size: 30px;
+    text-align: right;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.tog {
+    text-align: left;
+    padding: 20px;
+}
+
+.text-5 {
+    color:darkblue;
+    font-size: 30px;
+    text-align: right;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: justify;
+}
+
+.box-1{
+   margin: 20px 0;
+   padding:20px;
+   border: 5px solid black;
+
+}
+
+.box-1 h1 {
+    color: bisque;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.box-2 {
+    padding: 0;
+}
+
+.box-2 li{
+    color:goldenrod;
+    font-size: 40px;
+    list-style-type: none;
+    border-bottom: 3px solid black;
+    padding: 15px;
+}
+
+.links {
+    font-size: 50px;
+    font-style: italic; 
+    text-decoration: none;
+}
+
+.teror {
+    font-size: 30px;
+    color: darkgray;
+}

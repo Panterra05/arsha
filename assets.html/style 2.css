@@ -1,0 +1,124 @@
+.body-2 {
+    background-color:white;
+    margin: 50px;
+}
+
+.read {
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    text-decoration:underline;
+    font-family: sans-serif;
+}
+
+.ocean {
+    color: black;
+    font-family: sans-serif;
+    font-style: italic;
+    text-decoration: overline;
+    font-size: 40px;
+}
+
+.form label {
+     display: block;
+     font-size: 30px;
+     color:black;
+}
+
+.form input, .form textarea{
+    color: black;
+    font-size: 20px;
+    padding: 5px;
+    width: 100%;
+}
+
+.button {
+    background-color:black;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+.button:hover {
+    background: white;
+    color: black;
+    cursor: pointer;
+}
+
+
+.table {
+    font-size: 30px;
+    margin: 10px 15px;
+    padding: 15px;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.table thead {
+    font-family: sans-serif;
+    color:black;
+}
+
+.savol-1 {
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.javob {
+    font-size: 25px;
+    font-style: italic;
+}
+
+.javob label {
+    display: block;
+    color: blue;
+    font-size: 30px;
+}
+
+.jinsi {
+    font-size: 25px;
+    color: black;
+}
+
+.fobiya {
+    border: 3px solid;
+    padding: 20px;
+    margin-top: 20px;
+    color: mediumblue;
+    background: moccasin;
+    text-align: justify;
+}
+
+.fobiya dt {
+    font-size: 30px;
+    font-family: monospace;
+}
+
+.fobiya dd {
+    font-size: 20px;
+    font-style: italic;
+    font-weight:bold;   
+}
+
+.oddiy {
+    font-size: 30px;
+}
+
+.country h2 {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: italic;
+    color: darkred;
+}
+
+.country select {
+    padding:    5px 10px;
+    color:black;
+    background: gainsboro;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
